@@ -1,0 +1,7 @@
+{
+  "name": "Slider",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
